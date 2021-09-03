@@ -9,7 +9,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 2
 
 **Name** - Accept Order
@@ -21,7 +21,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 3
 
 **Name** - Make sure that order can only be placed with Beach's address
@@ -33,7 +33,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 4
 
 **Name** - Make sure that order can only be accepted by Thread Inc's Address
@@ -45,7 +45,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 5
 
 **Name** - Check order status
@@ -57,7 +57,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 6
 
 **Name** - Confirm order payment
@@ -69,7 +69,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 7
 
 **Name** - Make sure that that order payment can only confirmed by Beach's address 
@@ -82,7 +82,7 @@
 
 **Test Result** - Passed
 
----
+
 ## Test Case - 8
 
 **Name** - Place an order and then accept it
@@ -94,7 +94,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 9
 
 **Name** - Confirm an order and then confirm the payment
@@ -106,7 +106,7 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
+
 ## Test Case - 10
 
 **Name** - Place an order , accept it and then confirm payment
@@ -118,4 +118,3 @@
 **Outcome** - Expected Outcome is equal to actual outcome
 
 **Test Result** - Passed
----
