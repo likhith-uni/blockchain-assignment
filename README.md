@@ -1,4 +1,4 @@
-##Test Case - 1
+## Test Case - 1
 
 **Name** - Place a new order
 
@@ -10,7 +10,7 @@
 
 **Test Result** - Passed
 ---
-##Test Case - 2
+## Test Case - 2
 
 **Name** - Accept Order
 
@@ -22,7 +22,7 @@
 
 **Test Result** - Passed
 ---
-##Test Case - 3
+## Test Case - 3
 
 **Name** - Make sure that order can only be placed with Beach's address
 
@@ -34,7 +34,7 @@
 
 **Test Result** - Passed
 ---
-##Test Case - 4
+## Test Case - 4
 
 **Name** - Make sure that order can only be accepted by Thread Inc's Address
 
@@ -46,7 +46,7 @@
 
 **Test Result** - Passed
 ---
-##Test Case - 5
+## Test Case - 5
 
 **Name** - Check order status
 
@@ -58,7 +58,7 @@
 
 **Test Result** - Passed
 ---
-##Test Case - 6
+## Test Case - 6
 
 **Name** - Confirm order payment
 
@@ -83,7 +83,7 @@
 **Test Result** - Passed
 
 ---
-##Test Case - 8
+## Test Case - 8
 
 **Name** - Place an order and then accept it
 
